@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesoscale and Nanoscale Physics (cond-mat.mes-hall) | My personal webpage</title>
+    <link>https://fernandopenaranda.github.io/tag/mesoscale-and-nanoscale-physics-cond-mat.mes-hall/</link>
+      <atom:link href="https://fernandopenaranda.github.io/tag/mesoscale-and-nanoscale-physics-cond-mat.mes-hall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mesoscale and Nanoscale Physics (cond-mat.mes-hall)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fernandopenaranda.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mesoscale and Nanoscale Physics (cond-mat.mes-hall)</title>
+      <link>https://fernandopenaranda.github.io/tag/mesoscale-and-nanoscale-physics-cond-mat.mes-hall/</link>
+    </image>
+    
+    <item>
+      <title>Majorana bound states in encapsulated bilayer graphene</title>
+      <link>https://fernandopenaranda.github.io/publication/penaranda-a-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://fernandopenaranda.github.io/publication/penaranda-a-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

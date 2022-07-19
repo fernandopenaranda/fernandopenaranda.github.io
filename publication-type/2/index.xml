@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | My personal webpage</title>
-    <link>https://fernandopenaranda.github.io/publication/</link>
-      <atom:link href="https://fernandopenaranda.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <title>2 | My personal webpage</title>
+    <link>https://fernandopenaranda.github.io/publication-type/2/</link>
+      <atom:link href="https://fernandopenaranda.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fernandopenaranda.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://fernandopenaranda.github.io/publication/</link>
+      <title>2</title>
+      <link>https://fernandopenaranda.github.io/publication-type/2/</link>
     </image>
-    
-    <item>
-      <title>Majorana bound states in encapsulated bilayer graphene</title>
-      <link>https://fernandopenaranda.github.io/publication/penaranda-a-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://fernandopenaranda.github.io/publication/penaranda-a-2022/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Nontopological zero-bias peaks in full-shell nanowires induced by flux-tunable Andreev states</title>
